@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sphinx-software/fusion-payment/issues"
   },
-  "homepage": "https://github.com/sphinx-software/fusion-payment#readme"
+  "homepage": "https://github.com/sphinx-software/fusion-payment#readme",
+  "dependencies": {
+    "braintree": "^2.4.0",
+    "stripe": "^5.4.0"
+  }
 }
